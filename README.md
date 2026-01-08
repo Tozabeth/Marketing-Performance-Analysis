@@ -44,7 +44,7 @@ The analysis follows the funnel: **See → Click → Act → Value**, providing 
 
 ---
 
-## 📊 Dashboard Screenshot
+## 📊 Dashboard
 ![Marketing Performance Dashboard](marketing_performance.png)
 
 
